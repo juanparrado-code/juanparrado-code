@@ -1,9 +1,9 @@
-# Hi, I'm [Tu Nombre]! 👋
+# Hi, I'm Juan Manuel! 👋
 
 ⚡ **Electrical Engineering Student** | 💡 **Tech Enthusiast & Continuous Learner**
 
 Electrical Engineering Student · Technology · Hardware & Electricity  
-I'm an Electrical Engineering student from [Tu País], starting my journey into the world of technology, circuits, and coding.  
+I'm an Electrical Engineering student from Colombia, starting my journey into the world of technology, circuits, and coding.  
 
 I enjoy learning how things work from the ground up and applying theory to hands-on projects.  
 
@@ -45,7 +45,3 @@ I enjoy learning how things work from the ground up and applying theory to hands
 
 ---
 
-### 📫 Connect with me
-
-* **LinkedIn:** [Tu Enlace de LinkedIn]
-* **Email:** [Tu Email]
