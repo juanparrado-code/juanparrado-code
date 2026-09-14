@@ -18,7 +18,6 @@ I enjoy learning how things work from the ground up and applying theory to hands
 
 **Programming & Tools (Getting Started!)**
 * **Python** — *Learning basic logic & problem-solving*
-* **C / C++** — *Exploring low-level programming & algorithms*
 * **MATLAB** — *Using it for math and engineering calculations*
 
 **Software & Workspace**
